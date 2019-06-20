@@ -9,6 +9,18 @@ At the conclusion of the first Policy Innovation Lab course, the students helped
 
 [The Policy Innovation Lab Playbook](https://github.com/OpenGlobe/policy-lab-playbook)
 
+## Quotes from students (Spring '19)
+
+"I think that anyone who is really interested in federal government consulting should take this class" - Jana L.  
+
+"This is a great pre-systems class. But even if you've taken systems this is a great class for anyone interested in applying principles of innovation to government and public services." - Gilbert R.   
+
+“Policy Innovation Lab is all about getting comfortable with being uncomfortable.  The ambiguity of some aspects of PIL will push students to be self-starters, take initiative, and flex communication skills.  Immersing oneself in the agile environment for policy design will demand and strengthen your creative thinking, flexibility, and willingness to fail.” - Alex K. 
+
+"This class lays a solid grounding for first-year students who have not yet had a project-based course. The skills developed in this class are applicable to other team-based projects in Heinz courses and for the Systems requirement later on." - Diana R. 
+
+“This course offered real world experience in consulting and dealing with clients unlike most other courses. Even the frustrating moments were teaching moments.” - Peter H. 
+
 ## Background
 
 In the spring of 2019 Heinz College embarked on an experiment with the Commonwealth of Pennsylvania to apply user-centered design principles and agile development methodologies to the creation of new policy and service initiatives.  The goal was to borrow lessons learned from other federal public interest technology services (18F, United States Digital Service, Presidential Innovation Fellows) and create an environment where students would work side-by-side with state policy makers to craft user-centered approaches to new policy initiatives. 
