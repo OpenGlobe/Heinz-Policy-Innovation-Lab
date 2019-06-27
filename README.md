@@ -135,6 +135,8 @@ Bring these tools to your city or organization from Datamade (https://datamade.u
 
 How customer service can go wrong in the digital age, see this Washington Post article about a person that thought they were donating $15, and ended up donating over $15K. [link](https://www.washingtonpost.com/local/a-stranger-meant-to-donate-15-to-a-gofundme-page-he-accidentally-gave-more-than-15000/2018/09/08/6a3de272-b2bb-11e8-aed9-001309990777_story.html?utm_term=.72281c5bc23a). 
 
+[https://www.sog.unc.edu/publications/reports/civic-technology-open-data-and-citizen-volunteers-resource-north-carolina-local-governments](North Carolina and Civic Tech) - h/t John Stephens, UNC
+
 ## Listen
 [Freakonomic's Is the Government More Entrepreneurial Than You Think? (Ep. 348)](http://freakonomics.com/podcast/mariana-mazzucato/)
 
@@ -149,7 +151,9 @@ How to design products that aren't creepy - [A conversation with Google's Ivy Ro
 - [Taxonomy of Innovation](https://hbr.org/2014/01/a-taxonomy-of-innovation) - from Luma Institute
 - [Innovation.gov Toolkit](https://innovation.gov/toolkit/) - hiring, services, problems, innovators
 - https://civicsmart.city/about - thinking about how to use technology through the public benefit lense, and resources on how to run a civic smart city workshop. 
-http://cityxchange.eu/ - city exchange
+- http://cityxchange.eu/ - city exchange
+- [https://www.kitchentable.org/uncg](University Network for Collaborative Governance)
+- [https://civictech.guide/] (Civic Tech Guide)
 
 ## Project examples
 http://www.i-walk.org/files/Walking%20with%20a%20purpose.pdf
