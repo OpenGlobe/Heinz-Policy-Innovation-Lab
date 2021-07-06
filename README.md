@@ -1,3 +1,17 @@
+# Hey, there's newer content available!
+
+Please note that updated resources are available directly through Canvas Commons.  This makes adoption into existing university courses much easier.  I'm retaining the content below as an archive of the development of the course over the past few years. 
+
+For the most updated content, see: 
+
+https://lor.instructure.com/resources/102751e11f824efda27c066442410715?shared
+
+You can also find a copy of the Fall 2020 Policy Innovation Lab Playbook here: 
+
+[The Policy Innovation Lab Playbook](https://github.com/OpenGlobe/policy-lab-playbook/blob/master/pdf/PIL%20Playbook_V1%20Fall%202020%20Draft.pdf)
+
+================================================
+
 # About this site
 This is the repository for the **Policy Innovation Lab** course at Heinz College, Carnegie Mellon University (Spring 2019). 
 
@@ -7,7 +21,7 @@ I've created this wiki / repository to help others establish Policy Innovation L
 
 At the conclusion of the first Policy Innovation Lab course, the students helped develop a first draft of a playbook to guide future versions of the course.  You can find that here: 
 
-[The Policy Innovation Lab Playbook](https://github.com/OpenGlobe/policy-lab-playbook)
+[The Policy Innovation Lab Playbook](http://openglobe.org/policy-lab-playbook/)
 
 ## Quotes from students (Spring '19)
 
